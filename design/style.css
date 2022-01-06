@@ -1,0 +1,498 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.first{
+  position: absolute;
+  width: 1440px;
+  height: 52px;
+  left: 0px;
+  top: 0px;
+}
+.nav{
+  position: absolute;
+width: 1440px;
+height: 154px;
+left: 0px;
+top: 50px;
+background: #6E07C7;
+}
+.nav li a{
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 55px;
+/* identical to box height */
+padding: 25px 25px 25px 25px;
+align-items: center;
+color: #FFFFFF
+}
+.nav li a span{
+  position: static;
+left: 6.32%;
+right: 6.32%;
+top: 0%;
+bottom: 39.02%;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 25px;
+/* identical to box height */
+text-align: center;
+color: #FFFFFF;
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 0px;
+}
+.navc:hover{
+  color: #FFCB2A;
+}
+.sign{
+position: absolute;
+width: 167px;
+height: 50px;
+left: 1121.24px;
+top: 50px;
+background: #FA8F04;
+border-radius: 10px;
+}
+.in{
+width: 81px;
+height: 33px;
+top: 59px;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+.middle{
+  background-color: #E5E5E5;
+}
+.title-sec{
+  position: absolute;
+width: 1617px;
+height: 319px;
+left: -88px;
+top: 204px;
+
+background: #F45689;
+border-radius: 12px;
+}
+.teams{
+position: absolute;
+width: 139px;
+height: 6px;
+left: 211px;
+top: 15px;
+background-color:
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+.olds{
+position: absolute;
+width: 104px;
+height: 16px;
+left: 406px;
+top: 16px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.global{
+  position: absolute;
+width: 718px;
+height: 43px;
+left: 188px;
+top: 55px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 43px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.challenge{
+  position: absolute;
+width: 734px;
+height: 50px;
+left: 188px;
+top: 110px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.date{
+  position: absolute;
+width: 250px;
+height: 21px;
+left: 188px;
+top: 175px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.enter{
+  position: absolute;
+width: 173px;
+height: 39px;
+left: 188px;
+top: 202px;
+background: #000000;
+border-radius: 10px;
+color: #fff;
+}
+.light{
+  position: absolute;
+width: 243px;
+height: 39px;
+left: 376px;
+top: 202px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.heading1{
+  position: absolute;
+width: 203px;
+height: 28px;
+left: 188px;
+top: 550px;
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 23px;
+line-height: 28px;
+}
+.spons{
+  padding: 30px;
+}
+.b{
+  padding: 5px;
+}
+.click{
+  background-color: #fff;
+  border:2px solid #111;
+  font-size: 15px;
+  color:black;
+  display: inline-block;
+}
+
+.Rewards.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+.Rewards img {
+  max-width: 100%
+}
+
+.images {
+  flex-basis: 90%;
+  width:80px;
+  height:90px;
+  position: absolute;
+  left:70;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.text {
+  position:static;
+  font-size: 20px;
+  padding-left: 20px 10px;
+  top:70;
+  margin-left: 140px;
+}
+
+.timeline{
+  position: absolute;
+width: 1065px;
+height: 130px;
+left: 188px;
+top: 585px;
+padding-top: 20px;
+}
+.heading2{
+  position: absolute;
+width: 281px;
+height: 30px;
+left: 188px;
+top: 766px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+}
+.contest-review{
+  position: absolute;
+width: 1065px;
+height: 357px;
+left: 188px;
+top: 810px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+text-align: justify;
+
+}
+
+.contest_sposnsers{
+  position: absolute;
+width: 974.39px;
+height: 117px;
+left: 188px;
+top: 1111px;
+}
+.skills{
+  position: absolute;
+width: 558px;
+height: 109px;
+left: 188px;
+top: 1296px;
+}
+.Rewards{
+position: absolute;
+width: 1048px;
+height: 516px;
+left: 188px;
+top: 1523px;
+}
+.Rewards ul{
+  margin-top: 20px;
+}
+.getInspired{
+position: absolute;
+width: 147px;
+height: 28px;
+left: 188px;
+top: 2000px;
+}
+.check{
+  position: absolute;
+width: 601px;
+height: 21px;
+left: 88px;
+top: 50px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: rgba(0, 0, 0, 0.81);
+
+
+}
+.inspo{
+
+position: absolute;
+width: 1064px;
+height: 254px;
+left: 58px;
+top: 100px;
+
+filter: drop-shadow(0px 25px 31px rgba(99, 8, 189, 0.07));
+}
+.col{
+
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+}
+.faq{
+  position: absolute;
+width: 62px;
+height: 28px;
+left: 188px;
+top: 2560px;
+}
+.faqsec{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+position: absolute;
+width: 1138px;
+height: 365px;
+left: 98px;
+top: 50px;
+}
+.dropdown{
+  color:#6308BD;
+  padding: 20px;
+}
+.footer{
+  width:100%;
+  height:400px;
+  top:3000;
+  background-image: url('/images/Rectangle.png');
+  background-size: 100% 100%;
+}
+.upper{
+position: absolute;
+width: 62px;
+height: 28px;
+left: 88px;
+top: 3081px;
+color: #fff;
+background-color: #6308BD;
+padding: 30px;
+}
+.makershala{
+  position: absolute;
+  left: -300px;
+  bottom: 200px;
+  width:200px;
+  height: 200px;
+
+}
+.one{
+  position: absolute;
+  width: 50px;
+  height: 400px;
+  left: 350px;
+  bottom: 1px;
+  color: #fff;
+  background-color: #6308BD;
+}
+.two{
+  position: absolute;
+  width: 50px;
+  height: 400px;
+  left: 540px;
+  bottom: 1px;
+  color: #fff;
+  background-color: #6308BD;
+}
+.three{
+  position: absolute;
+  width:50px;
+  height: 400px;
+  left: 700px;
+  bottom: 1px;
+  color: #fff;
+  background-color: #6308BD;
+}
+.links{
+position: absolute;
+width: 450px;
+height: 22px;
+left: 88px;
+top: 450px;
+color: #fff;
+background-color: #6308BD;
+text-decoration: none;
+font-size: 12px;
+}
+.one ul{
+  list-style-type: none;
+}
+.two ul{
+  list-style-type: none;
+}
+.three ul{
+  list-style-type: none;
+}
+.line{
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
+.all{
+  padding: 20px 4px;
+  color: #fff;
+  text-decoration: none;
+}
+.links a:hover{
+  color: #FFCB2A;
+}
+.social a i:hover{
+  color: #FFCB2A;
+}
+.one li a:hover{
+    color: #FFCB2A;
+}
+.two li a:hover{
+    color: #FFCB2A;
+}
+.three li a:hover{
+    color: #FFCB2A;
+}
+.social{
+position: absolute;
+width: 200px;
+height: 18px;
+left: 700px;
+top: 450px;
+color: #fff;
+font-size: 20px;
+background-color: #6308BD;
+}
+.social a i{
+  padding: 0px 20px 0px 20px;
+  color:#fff;
+}
+.lower {
+  position: absolute;
+  width: 1000px;
+  height: 1500px;
+  left: 68px;
+  top:600;
+  font-size: 13px;
+  color:#fff;
+  background-color: #6308BD;
+  padding-top: 600px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
